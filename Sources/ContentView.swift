@@ -162,7 +162,7 @@ struct ContentView: View {
                 .multilineTextAlignment(.center)
 
             Button {
-                if let url = URL(string: "https://example.com/support") {
+                if let url = URL(string: "https://ko-fi.com/mnzel1") {
                     NSWorkspace.shared.open(url)
                 }
             } label: {

@@ -61,4 +61,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If Vanish helps your workflow, consider starring the repo or contributing to its development!
+If Vanish helps your workflow, consider starring the repo or supporting the project.
+
+Support or buy me a coffee at [ko-fi.com/mnzel1](https://ko-fi.com/mnzel1)
